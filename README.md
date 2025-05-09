@@ -75,7 +75,18 @@ npm install readline-sync
 
 ## Como Executar
 
-Você pode executar os códigos usando Node.js no terminal:
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/fatalite38/list_01_maispraTI
+```
+### 2. Acesse a pasta src
+
+```bash
+cd seu-repositorio/src
+```
+
+Execute os códigos usando Node.js no terminal:
 
 ```bash
 node exercicio_01.js
