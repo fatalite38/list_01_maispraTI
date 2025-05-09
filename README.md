@@ -83,7 +83,7 @@ git clone https://github.com/fatalite38/list_01_maispraTI
 ### 2. Acesse a pasta src
 
 ```bash
-cd seu-repositorio/src
+cd list_01_maispraTI/src
 ```
 
 Execute os códigos usando Node.js no terminal:
